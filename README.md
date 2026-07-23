@@ -1,5 +1,12 @@
 # 💫 About Me:
-Final year Undergrad at IIT Kanpur | Ex-SDE Intern at IBY, Japan | Ex-intern at TerrAqua UAV, Byufuel<br>Best interests and skills are web development, software development, machine learning, computer vision, AI engineering, and artificial intelligence,
+
+🎓 Education: Final-year B.Tech in Mechanical Engineering at IIT Kanpur.
+
+💻 Experience: SDE Intern @ IBY (Japan) | WebGIS Developer Intern @ TerrAqua UAV | Ex-intern @ Byufuel.
+
+🎯 Leadership: President @ ShARE IITK, leading global initiatives and strategic partnerships.
+
+🧠 Core Focus: Full-Stack Software Development, Computer Vision, Deep Learning, and AI Architecture.
 
 
 ## 🌐 Socials:
