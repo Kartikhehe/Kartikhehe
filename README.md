@@ -4,9 +4,16 @@
 
 💻 Experience: SDE Intern @ IBY (Japan) | WebGIS Developer Intern @ TerrAqua UAV | Ex-intern @ Byufuel.
 
-🎯 Leadership: President @ ShARE IITK, leading global initiatives and strategic partnerships.
+🎯 Leadership: Ex-Head @ ShARE IITK, leading global initiatives and strategic partnerships, and Ex-Organizer @ Antaragni'26 managing Public Relations.
 
 🧠 Core Focus: Full-Stack Software Development, Computer Vision, Deep Learning, and AI Architecture.
+
+🎯 Key Competitions and Hackathons: 
+National Runner Up at American Express CodeStreet Challenge 2026
+Winner at the AI CityLens Hackathon by Airawat Foundation
+Semi Finalist, i.e., among the top 100 teams in Meesho D.I.C.E. Challenge 2026 with team name "The Solo Player", participating individually.
+Semi Finalist in the Paytm Innovation Challenge 2026 (only selected team from IIT Kanpur) - "The Solo Player" - Individual participant
+Among the Top 100 in Inmobi R.I.S.E. Codies Challenge 2026
 
 
 ## 🌐 Socials:
